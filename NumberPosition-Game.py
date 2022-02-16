@@ -32,4 +32,6 @@ else:
     print("Game Over, your input character is not correct. Read the rules again, " + name + " !!!")
 
 
+# This is not finished 
+
 
